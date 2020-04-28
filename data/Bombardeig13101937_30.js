@@ -1,0 +1,9 @@
+var json_Bombardeig13101937_30 = {
+"type": "FeatureCollection",
+"name": "Bombardeig13101937_30",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": "23", "Data": "13\/10\/1937", "Localització": null, "Morts": null, "Ferits": null, "Danys": null, "Oservacions": "3 avions He-59 L.C", "Font 1": " PERILL DE BOMBARDEIG! Barcelona sota les bombres (1936-1939) Santiago i Elisenda Albertí <hr>", "Planol": "<a href=\"https:\/\/www.dropbox.com\/s\/nurt75vpp3uidg4\/10_13101937.png?raw=1\"target=\"_blank\"><img src=\"https:\/\/www.dropbox.com\/s\/nurt75vpp3uidg4\/10_13101937.png?raw=1\" width=\"270\"height=\"202\"><\/a>", "Llistat 1": null, "Llistat 2": null, "Font 2": "AMCB - M101 2.6", "Document": "189160011111 Pág. 9<hr>", "Text": null, "Font text": null, "Àudio": null, "Font àudio": null, "Vídeo": null, "Font vídeo": null }, "geometry": { "type": "Point", "coordinates": [ 2.191663833147126, 41.386365175108736 ] } },
+{ "type": "Feature", "properties": { "fid": "24", "Data": "13\/10\/1937", "Localització": null, "Morts": null, "Ferits": null, "Danys": null, "Oservacions": "3 avions He-59 L.C", "Font 1": " PERILL DE BOMBARDEIG! Barcelona sota les bombres (1936-1939) Santiago i Elisenda Albertí <hr>", "Planol": "<a href=\"https:\/\/www.dropbox.com\/s\/nurt75vpp3uidg4\/10_13101937.png?raw=1\"target=\"_blank\"><img src=\"https:\/\/www.dropbox.com\/s\/nurt75vpp3uidg4\/10_13101937.png?raw=1\" width=\"270\"height=\"202\"><\/a>", "Llistat 1": null, "Llistat 2": null, "Font 2": "AMCB - M101 2.6", "Document": "189160011111 Pág. 9<hr>", "Text": null, "Font text": null, "Àudio": null, "Font àudio": null, "Vídeo": null, "Font vídeo": null }, "geometry": { "type": "Point", "coordinates": [ 2.191826330887662, 41.387573249763037 ] } }
+]
+}

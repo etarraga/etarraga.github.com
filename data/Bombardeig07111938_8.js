@@ -1,0 +1,9 @@
+var json_Bombardeig07111938_8 = {
+"type": "FeatureCollection",
+"name": "Bombardeig07111938_8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": "285", "Data": "07\/11\/1938", "Localització": "Carrer Pujades 104", "Morts": null, "Ferits": null, "Danys": null, "Oservacions": null, "Font 1": null, "Planol": "<a href=\"https:\/\/www.dropbox.com\/s\/c9t2hilyg3f4cv4\/56_BB_06111938.png?raw=1\"target=\"_blank\"><img src=\"https:\/\/www.dropbox.com\/s\/c9t2hilyg3f4cv4\/56_BB_06111938.png?raw=1\" width=\"270\"height=\"360\"><\/a>", "Llistat 1": "<a href=\"https:\/\/www.dropbox.com\/s\/pnnc9skq6p0nvss\/49_BB_06111938.png?raw=1\"style=”color:#334cff” target=\"_blank\">Llistat<\/a>", "Llistat 2": null, "Font 2": "AMCB1-001 M100 2.5", "Document": "189269711111 Pág. 49 y 56<hr>", "Text": null, "Font text": null, "Àudio": null, "Font àudio": null, "Vídeo": null, "Font vídeo": null }, "geometry": { "type": "Point", "coordinates": [ 2.194561349224391, 41.396754349945347 ] } },
+{ "type": "Feature", "properties": { "fid": "286", "Data": "07\/11\/1938", "Localització": "Carrer Pujades 112", "Morts": null, "Ferits": null, "Danys": null, "Oservacions": null, "Font 1": null, "Planol": "<a href=\"https:\/\/www.dropbox.com\/s\/c9t2hilyg3f4cv4\/56_BB_06111938.png?raw=1\"target=\"_blank\"><img src=\"https:\/\/www.dropbox.com\/s\/c9t2hilyg3f4cv4\/56_BB_06111938.png?raw=1\" width=\"270\"height=\"360\"><\/a>", "Llistat 1": "<a href=\"https:\/\/www.dropbox.com\/s\/pnnc9skq6p0nvss\/49_BB_06111938.png?raw=1\"style=”color:#334cff” target=\"_blank\">Llistat<\/a>", "Llistat 2": null, "Font 2": "AMCB1-001 M100 2.5", "Document": "189269711111 Pág. 49 <hr>", "Text": null, "Font text": null, "Àudio": null, "Font àudio": null, "Vídeo": null, "Font vídeo": null }, "geometry": { "type": "Point", "coordinates": [ 2.195419238597057, 41.397477300844741 ] } }
+]
+}

@@ -1,0 +1,9 @@
+var json_Bombardeig04061938_16 = {
+"type": "FeatureCollection",
+"name": "Bombardeig04061938_16",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": "248", "Data": "04\/06\/1938", "Localització": null, "Morts": null, "Ferits": null, "Danys": null, "Oservacions": "1 avió He-59. L.C.", "Font 1": "Els bombardeigs de Barcelona durant la guerra civil (1936-1939) Joan Villarroya i Font <hr> ", "Planol": "<a href=\"https:\/\/www.dropbox.com\/s\/9k4nemjyqlmrrct\/34_04061938.png?raw=1\"target=\"_blank\"><img src=\"https:\/\/www.dropbox.com\/s\/9k4nemjyqlmrrct\/34_04061938.png?raw=1\" width=\"270\"height=\"202\"><\/a>", "Llistat 1": null, "Llistat 2": null, "Font 2": "AMCB - M101 2.6", "Document": "189160011111 Pág. 34<hr>", "Text": null, "Font text": null, "Àudio": null, "Font àudio": null, "Vídeo": null, "Font vídeo": null }, "geometry": { "type": "Point", "coordinates": [ 2.198578501417793, 41.392024262828158 ] } },
+{ "type": "Feature", "properties": { "fid": "249", "Data": "04\/06\/1938", "Localització": null, "Morts": null, "Ferits": null, "Danys": null, "Oservacions": "1 avió He-59. L.C.", "Font 1": "Els bombardeigs de Barcelona durant la guerra civil (1936-1939) Joan Villarroya i Font <hr> ", "Planol": "<a href=\"https:\/\/www.dropbox.com\/s\/9k4nemjyqlmrrct\/34_04061938.png?raw=1\"target=\"_blank\"><img src=\"https:\/\/www.dropbox.com\/s\/9k4nemjyqlmrrct\/34_04061938.png?raw=1\" width=\"270\"height=\"202\"><\/a>", "Llistat 1": null, "Llistat 2": null, "Font 2": "AMCB - M101 2.6", "Document": "189160011111 Pág. 34<hr>", "Text": null, "Font text": null, "Àudio": null, "Font àudio": null, "Vídeo": null, "Font vídeo": null }, "geometry": { "type": "Point", "coordinates": [ 2.198656236376725, 41.391328342799703 ] } }
+]
+}

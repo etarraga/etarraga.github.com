@@ -1,0 +1,9 @@
+var json_Bombardeig29051937_33 = {
+"type": "FeatureCollection",
+"name": "Bombardeig29051937_33",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": "4", "Data": "29\/05\/1937", "Localització": null, "Morts": null, "Ferits": null, "Danys": "Nocturn", "Oservacions": "7 avions Saviola S.81", "Font 1": " PERILL DE BOMBARDEIG! Barcelona sota les bombres (1936-1939) Santiago i Elisenda Albertí <hr>", "Planol": "<a href=\"https:\/\/www.dropbox.com\/s\/9i42dpqeldwh1td\/5_29051937.png?raw=1\"target=\"_blank\"><img src=\"https:\/\/www.dropbox.com\/s\/9i42dpqeldwh1td\/5_29051937.png?raw=1\" width=\"270\"height=\"202\"><\/a>", "Llistat 1": null, "Llistat 2": null, "Font 2": "AMCB - M101 2.6", "Document": "189160011111 Pág. 4<hr>", "Text": null, "Font text": null, "Àudio": null, "Font àudio": null, "Vídeo": null, "Font vídeo": null }, "geometry": { "type": "Point", "coordinates": [ 2.210173653647849, 41.405008221538466 ] } },
+{ "type": "Feature", "properties": { "fid": "5", "Data": "29\/05\/1937", "Localització": null, "Morts": null, "Ferits": null, "Danys": "Nocturn", "Oservacions": "7 avions Saviola S.81", "Font 1": " PERILL DE BOMBARDEIG! Barcelona sota les bombres (1936-1939) Santiago i Elisenda Albertí <hr>", "Planol": "<a href=\"https:\/\/www.dropbox.com\/s\/9i42dpqeldwh1td\/5_29051937.png?raw=1\"target=\"_blank\"><img src=\"https:\/\/www.dropbox.com\/s\/9i42dpqeldwh1td\/5_29051937.png?raw=1\" width=\"270\"height=\"202\"><\/a>", "Llistat 1": null, "Llistat 2": null, "Font 2": "AMCB - M101 2.6", "Document": "189160011111 Pág. 4<hr>", "Text": null, "Font text": null, "Àudio": null, "Font àudio": null, "Vídeo": null, "Font vídeo": null }, "geometry": { "type": "Point", "coordinates": [ 2.187517678677422, 41.39679747113307 ] } }
+]
+}
